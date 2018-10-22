@@ -1,0 +1,25 @@
+{
+  "name": "im07-2018-07-hiring-assessments",
+  "version": "1.0.0",
+  "description": "## Before Starting",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node node-post-reqs/server.js & mocha --bail --exit **/*.test.js; pkill -n node;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codestates/im07-2018-07-hiring-assessments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codestates/im07-2018-07-hiring-assessments/issues"
+  },
+  "homepage": "https://github.com/codestates/im07-2018-07-hiring-assessments#readme"
+}
