@@ -10,7 +10,9 @@ var sport = {
     { name: 'Kevin Durant', age: 28 }
   ],
   playerNames: function () {
-    // YOUR CODE HERE
+    return this.players.map((player, i) => {
+      return player.name + " plays " + this.name
+    })
   }
 };
 

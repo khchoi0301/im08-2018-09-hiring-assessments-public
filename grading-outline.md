@@ -14,16 +14,34 @@ Not attempted  | 어떠한 내용도 작성하지 않아 시도 해본 흔적이
 
 | 가중치 | 문항 |
 | --- | --------- |
-| 2 | algo-complexity |
-| 3 | async-word-count |
-| 2 | ds-queue |
-| 2 | html-log-input |
-| 1 | js-inheritance-pseudo-classical |
-| 1 | no-sql-compare-sql |
-| 3 | node-post-reqs |
-| 1 | react-pond |
-| 2 | recursion-print-array |
-| 2 | sql-publisher-author-genre |
-| 1 | testing-hash-table |
-| 2 | this-keyword |
-| 1 | underbar-each-filter |
+| 2 | algo-complexity | [complete]
+| 3 | async-word-count | [complete]
+| 2 | ds-queue | [complete]   
+| 2 | html-log-input | [complete]
+| 1 | js-inheritance-pseudo-classical | [complete]
+| 1 | no-sql-compare-sql | [complete]
+| 3 | node-post-reqs | [complete]
+| 1 | react-pond | [complete]
+| 2 | recursion-print-array | [complete]
+| 2 | sql-publisher-author-genre | [complete]
+<!-- | 1 | testing-hash-table | [complete] -->
+| 2 | this-keyword | [complete]
+<!-- | 1 | underbar-each-filter | -->
+
+
+
+<!-- [complete] algo-complexity    
+[complete] async-word-count   //
+[complete] authentication
+[complete] deploy
+[complete] ds-queue       //   time complexity O(1)
+[complete] git-test-bonus
+[complete] html-log-input  
+[complete] js-inheritance-pseudo-classical-alt    //
+[complete] module-exports-nodejs  //
+[complete] no-sql-compare-sql   //
+[complete] node-post-reqs       // 
+[complete] react-pond       //
+[complete] recursion-print-array    //
+[complete] sql-publisher-author-genre   //
+[complete] this-keyword     // -->

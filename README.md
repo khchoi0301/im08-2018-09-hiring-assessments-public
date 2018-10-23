@@ -28,3 +28,19 @@
 
 정직하지않게 시험을 보면, 여러분이 학습한 부분을 얼마나 잘 이해했는지 정확히 진단하기 어렵습니다. 참고한 자료가 본인이 생각하기에 공정한 자료를 참고하지 않았다고 생각되는 경우는 그 자료의 링크를 복사해서 문제의 답안에 넣어주시기 바랍니다.
 
+
+[complete] algo-complexity
+[complete] async-word-count
+[complete] authentication
+[complete] deploy
+[complete] ds-queue   
+[complete] git-test-bonus
+[complete] html-log-input  
+[complete] js-inheritance-pseudo-classical-alt
+[complete] module-exports-nodejs
+[complete] no-sql-compare-sql
+[complete] node-post-reqs  // data 전송 됨
+[complete] react-pond
+[complete] recursion-print-array
+[] sql-publisher-author-genre 
+[complete] this-keyword

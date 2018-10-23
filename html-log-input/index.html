@@ -1,5 +1,25 @@
-<!--
-  CODE GOES HERE
-  Don't forget newlines at the end of all files :)
--->
+<html>
+<title>
+  Hiring Assessment
+</title>
 
+<head>
+  <script src=https://code.jquery.com/jquery-3.3.1.min.js> </script> </head> <body>
+    <div id='search'>
+        <input type='text' id='textinput'/>
+        <button type="submit" id="btn">Submit</button>
+    </div>
+  <script>
+    console.log('start')
+    var $btn = $('#btn');
+    $('#search').css('left', '40%')
+    $('#search').css('position', 'absolute')
+    $('#search').css('left', '40%')
+    $('#search').css('top', '48%')
+    $btn.on('click', () => {
+      console.log($('#textinput').val())
+    })
+  </script>
+  </body>
+
+</html>
